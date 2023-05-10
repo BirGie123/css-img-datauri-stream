@@ -23,7 +23,7 @@
   "dependencies": {
     "through": "~2.3.4",
     "mime": "~1.2.11",
-    "underscore": "~1.7.0"
+    "underscore": "~1.13.6"
   },
   "directories": {
     "test": "test"
